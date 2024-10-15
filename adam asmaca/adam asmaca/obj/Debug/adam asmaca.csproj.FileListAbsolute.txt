@@ -1,0 +1,7 @@
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\obj\Debug\adam asmaca.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\bin\Debug\adam asmaca.exe.config
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\bin\Debug\adam asmaca.exe
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\bin\Debug\adam asmaca.pdb
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\obj\Debug\adam asmaca.exe
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\obj\Debug\adam asmaca.pdb
+C:\Users\Muhammed\Desktop\c#\adam asmaca\adam asmaca\obj\Debug\adam asmaca.csproj.AssemblyReference.cache
