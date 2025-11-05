@@ -1,7 +1,0 @@
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\obj\Debug\spiral matris.csprojAssemblyReference.cache
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\obj\Debug\spiral matris.csproj.CoreCompileInputs.cache
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\bin\Debug\spiral matris.exe.config
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\bin\Debug\spiral matris.exe
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\bin\Debug\spiral matris.pdb
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\obj\Debug\spiral matris.exe
-C:\Users\Muhammed\source\repos\spiral matris\spiral matris\obj\Debug\spiral matris.pdb

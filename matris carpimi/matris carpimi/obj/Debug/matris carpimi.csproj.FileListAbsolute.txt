@@ -1,7 +1,0 @@
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\obj\Debug\matris carpimi.csproj.CoreCompileInputs.cache
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\bin\Debug\matris carpimi.exe.config
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\bin\Debug\matris carpimi.exe
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\bin\Debug\matris carpimi.pdb
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\obj\Debug\matris carpimi.exe
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\obj\Debug\matris carpimi.pdb
-C:\Users\Muhammed\Desktop\c#\matris carpimi\matris carpimi\obj\Debug\matris carpimi.csproj.AssemblyReference.cache
